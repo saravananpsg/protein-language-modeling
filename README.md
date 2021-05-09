@@ -29,5 +29,14 @@
          
     * Variant of High Consequence
         - no variants of high consequence have been identified
+        
+    * Anitbody treatments :
+       - specific monoclonal antibody treatments may be less effective for treating cases of COVID-19 caused by variants with the L452R or E484K substitution in the spike protein
+       
+       |Spike Protein|Variant Strains|
+       |-------------|----------------|
+       |L452R |B.1.526.1, B.1.427, and B.1.429|
+       |E484K | B.1.525, P.2, P.1, and B.1.351, but only some strains of B.1.526 and B.1.1.7|
+
 
     
